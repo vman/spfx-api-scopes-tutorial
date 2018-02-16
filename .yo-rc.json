@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "spfx-api-scopes-tutorial",
+    "libraryId": "7143fc79-a8ed-48bd-bf84-63fa10c8eca5",
+    "environment": "spo"
+  }
+}
